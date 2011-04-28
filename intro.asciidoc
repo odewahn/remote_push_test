@@ -1,3 +1,5 @@
 kajhfgkjsdfhgkjsdhfgkjl
 sdfgkjhsdfgkjlhsdjfklhg
 sdfgkjhsdfkjghjklsdfhg
+
+image:attachments/add_toc.png[]

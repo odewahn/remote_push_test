@@ -1,5 +1,1 @@
-kajhfgkjsdfhgkjsdhfgkjl
-sdfgkjhsdfgkjlhsdjfklhg
-sdfgkjhsdfkjghjklsdfhg
-
-image:attachments/add_toc.png[]
+this is a <literal>test</literal>.

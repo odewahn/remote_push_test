@@ -1,1 +1,1 @@
-this is a <literal>test</literal>.
+this is a <literal>test</literal>, and this is <emphasis>emphasis</emphasis>.

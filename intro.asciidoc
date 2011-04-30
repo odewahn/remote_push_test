@@ -1,1 +1,1 @@
-image:attachments/out_101.jpg[]
+image:attachments/out_101.png[]
